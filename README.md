@@ -1,4 +1,4 @@
-# Desafio: Implementação de Práticas DevOps em um Ambiente Empresarial 
+# Desafio: Implementação de Práticas de DevSecOps em uma aplicação durante todo o ciclo de desenvolvimento 
 
 ## Resolução do desafio: 
 
